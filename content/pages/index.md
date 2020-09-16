@@ -24,7 +24,7 @@ sections:
           useful things.  There is also links to other resourses on how-to do
           certain OSINT task.
         actions:
-          - label: Get Started
+          - label: ''
             url: /docs
             style: link
       - title: Blog
