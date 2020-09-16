@@ -90,7 +90,7 @@
             {
                 "label": "Created by Dustin Foster",
                 "url": "https://www.facebook.com/officaldustin",
-                "style": "link",
+                "style": "primary",
                 "new_window": true
             }
         ],
