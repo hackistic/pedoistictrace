@@ -6,8 +6,9 @@ sections:
     title: Pedoistic
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      > We activly seek to end all pedophilia.  There has been a surge in recent
+      times to push for the "Normalization" of this sick satanic abuse of
+      childrend.  Come Join us...
     actions:
       - label: Get Started
         url: /docs
