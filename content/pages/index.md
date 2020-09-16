@@ -48,7 +48,7 @@ sections:
       - label: OSINT Tools
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: OSINT How-To's
         url: /docs/getting-started
         style: secondary
   - section_id: features-two-col
