@@ -54,7 +54,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Do want to help make the internet safer?
-    subtitle: 'Our kids need you '
+    subtitle: Our kids need you will
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
