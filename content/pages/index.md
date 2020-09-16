@@ -37,7 +37,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/rabbit.jpeg
+    image: images/OSINT.png
     image_position: left
     title: A Section With An Image
     content: >-
