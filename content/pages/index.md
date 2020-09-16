@@ -53,7 +53,7 @@ sections:
         style: secondary
   - section_id: cta
     type: section_cta
-    title: Are you a hacker
+    title: Are you a hacker?  Lets talk
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
