@@ -122,7 +122,7 @@
                 "url": "https://facebook.com/officaldustin",
                 "style": "icon",
                 "icon_class": "facebook-icon",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
