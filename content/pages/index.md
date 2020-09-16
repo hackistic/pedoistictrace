@@ -41,9 +41,9 @@ sections:
     image_position: left
     title: A Section With An Image
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We only use legal methods for intel. gathering.  Open Source Investigation
+      which is public domain and legal to obtain and use in the court of law. 
+      Check our list of resources for OSINT.
     actions:
       - label: View Demo
         url: /docs/getting-started
