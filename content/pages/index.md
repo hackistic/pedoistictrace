@@ -29,8 +29,8 @@ sections:
             style: link
       - title: Blog
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Check out some of the things Pedoistic and Hackistic are doing to
+          better the our world by cyber hunting pedophiles.
         actions:
           - label: View Posts
             url: /blog
