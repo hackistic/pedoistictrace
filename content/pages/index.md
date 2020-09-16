@@ -61,7 +61,7 @@ sections:
         style: primary
   - section_id: text-no-img
     type: section_content
-    title: 'Hackistic '
+    title: 'Hackistic Trace Labs '
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
