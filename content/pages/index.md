@@ -63,9 +63,8 @@ sections:
     type: section_content
     title: Hackistic Trace Labs Search Party
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Gold metal award for the location of 9 missing children in 3 months for
+      Dustin Foster - Hackistic
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
