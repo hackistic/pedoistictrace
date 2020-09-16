@@ -19,9 +19,10 @@ sections:
     grid_items:
       - title: Documentation
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          We ask that you read through our Documentation before joining our
+          tello board.  This will explaine how-to join the board and many other
+          useful things.  There is also links to other resourses on how-to do
+          certain OSINT task.
         actions:
           - label: Get Started
             url: /docs
