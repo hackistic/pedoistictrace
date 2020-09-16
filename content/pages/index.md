@@ -65,10 +65,7 @@ sections:
     content: >-
       Gold metal award for the location of 9 missing children in 3 months for
       Dustin Foster - Hackistic
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
+    actions: []
     image: images/b0fe73d3-7420-4486-80cf-ff7139eae3ea.png
 layout: advanced
 ---
