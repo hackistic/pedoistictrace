@@ -45,7 +45,7 @@ sections:
       which is public domain and legal to obtain and use in the court of law. 
       Check our list of resources for OSINT.
     actions:
-      - label: View Demo
+      - label: OSINT Tools
         url: /docs/getting-started
         style: primary
       - label: Get Started
