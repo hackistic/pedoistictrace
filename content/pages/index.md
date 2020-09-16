@@ -53,7 +53,7 @@ sections:
         style: secondary
   - section_id: cta
     type: section_cta
-    title: Do want to help end pedo
+    title: 'Do want to help end pedophiles '
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
