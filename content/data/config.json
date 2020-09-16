@@ -120,7 +120,7 @@
             {
                 "label": "Facebook",
                 "url": "https://facebook.com/officaldustin",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
