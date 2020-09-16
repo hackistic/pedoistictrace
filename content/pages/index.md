@@ -39,7 +39,7 @@ sections:
     type: section_content
     image: images/OSINT.png
     image_position: left
-    title: A Section With An Image
+    title: OSINT
     content: >-
       We only use legal methods for intel. gathering.  Open Source Investigation
       which is public domain and legal to obtain and use in the court of law. 
