@@ -54,7 +54,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Do want to help make the internet safer?
-    subtitle: This is an optional description for the call to action block.
+    subtitle: 'Our kids need you '
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
