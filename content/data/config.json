@@ -119,7 +119,7 @@
             },
             {
                 "label": "Facebook",
-                "url": "httpsL",
+                "url": "https",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
