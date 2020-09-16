@@ -70,5 +70,6 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
+    image: images/b0fe73d3-7420-4486-80cf-ff7139eae3ea.png
 layout: advanced
 ---
