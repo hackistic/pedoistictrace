@@ -2,7 +2,7 @@
     "title": "Stackbit Libris Theme",
     "path_prefix": "/",
     "description": "A documentation theme",
-    "palette": "green",
+    "palette": "blue",
     "palettes": {
         "blue": {
             "sass": {
