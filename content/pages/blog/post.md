@@ -1,5 +1,5 @@
 ---
-title: Pedo
+title: Pedoistic
 subtitle: lorem-ipsum
 date: '2021-01-28'
 excerpt: lorem-ipsum
